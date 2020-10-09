@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: proccess.env.NODE_ENV === 'production'
+    publicPath: process.env.NODE_ENV === 'production'
     ? '/mongoal-vue2'
     : '/'
 }
