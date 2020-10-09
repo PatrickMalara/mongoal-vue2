@@ -1,24 +1,14 @@
-# mongoal-vue2
+![Image of Mongoal on Desktop](http://patrickmalara.com/projectimages/MongoalVue.png)
+# Mongoal using Vue
 
-## Project setup
-```
-npm install
-```
+This was my first 5 hours using Vue.  
+A monthly goal tracking web application that shows you statistics on how you're progressing through the month. Made using HTML, CSS, Javascript, PHP, Jquery, and Bootstrap. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Deployed
 
-### Compiles and minifies for production
-```
-npm run build
-```
+I tried to deploy it to gihub pages but I didnt have enough time to do that correctly :(
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Screenshots
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Image of Mongoal Goals Page](http://patrickmalara.com/projectimages/MongoalVue2.png)
+
